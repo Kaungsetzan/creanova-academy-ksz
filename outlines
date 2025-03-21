@@ -1,0 +1,13 @@
+- contextual classes
+  - bg-primary, bg-secondary, bg-success, bg-info, bg-warning, bg-danger, bg-light, bg-dark
+  - text-primary, text-secondary, text-success, text-info, text-warning, text-danger, text-light, text-dark
+  - btn-primary, btn-secondary, btn-success, btn-info, btn-warning, btn-danger, btn-light, btn-dark
+- layout
+  - container, container-fluid
+  - m-[0-5],mt-[0-5],mb-[0-5], ms-[0-5], me-[0-5], mx-[0-5], my-[0-5], mx-auto
+  - p-[0-5],pt-[0-5],pb-[0-5], ps-[0-5], pe-[0-5], px-[0-5], py-[0-5]
+    - text-start, text-end, text-center
+  - breakpoints [sm, md, lg, xl, xxl]
+  - display [d-none, d-block, d-inline]
+- css components
+- js components
