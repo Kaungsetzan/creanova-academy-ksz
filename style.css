@@ -1,0 +1,49 @@
+* {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+
+  font-style: normal;
+}
+
+.bg-navbar {
+  background: #423e37;
+}
+
+.nav-item a,
+.navbar-brand {
+  color: #edebd7 !important;
+}
+.active {
+  color: #edebd7 !important;
+
+  border-bottom: #edebd7 solid 2px;
+}
+.navbar-nav a:hover {
+  color: #edebd7 !important;
+
+  border-bottom: #edebd7 solid 2px;
+}
+.carousel-caption {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.ratings {
+  text-align: center;
+}
+
+.card-body h5 {
+  margin-top: 13px;
+}
+
+footer {
+  background: #edebd7;
+}
+
+footer a {
+  text-decoration: none;
+  color: #e3b23c;
+}
+
+.social-icons a {
+  color: black;
+}
